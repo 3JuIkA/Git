@@ -61,3 +61,9 @@ brew install git
 git --version
 3:После этого появится окно, где предложит установить Command Line Tools (CLT).
 4:Соглашаемся и ждем установки. Вместе с CLT установиться и git
+
+Для Linux: открываем терминал и пишем:
+1:Если Debian или Ubuntu, то:
+sudo apt install git
+2:Если CentOS, то:
+sudo yum install git
