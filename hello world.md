@@ -50,3 +50,6 @@ Git - это консольная утилита, для отслеживани�
 
 ![](https://habrastorage.org/getpro/habr/upload_files/137/e03/4ea/137e034eadd3c4459a734354a029fb1a)
 
+# Установка Git
+
+Для Windows: требуется перейти по ссылке https://git-scm.com/download/win
