@@ -89,3 +89,5 @@ git checkout <branch_name> - переход к ветке с именем <branc
 git branch -d <branch_name> - удалить ветку с именем branch_name.
 
 git checkout  -b <название ветки> - создание ветки и переход к ней.
+
+git merge --abort - отменить слияние, которое прошло с конфликтом.
