@@ -84,3 +84,4 @@ git branch <название ветки> – создать новую ветк�
 
 git commit -am 'message' = 'git add' + "git commit -m"
 
+git checkout <branch_name> - переход к ветке с именем <branch_name>
